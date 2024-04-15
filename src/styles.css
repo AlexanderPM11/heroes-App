@@ -1,0 +1,22 @@
+.active{
+    color: white ;
+}
+.card{
+    max-width: 400px !important;
+}
+.card-img-top{
+    padding: 10px;
+    height: 400px;
+    width: 400px;
+    border-radius: 10px !important;
+    /* height: 300px;
+    width: 300px; */
+    /* width: 100%; */
+}
+.container-list-heroes{
+    /* overflow-y:auto ; */
+    overflow-x:auto ;
+    scrollbar-width: 2px;
+    max-height: 78vh;
+    margin: 20px;
+}
